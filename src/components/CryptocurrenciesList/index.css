@@ -1,0 +1,14 @@
+.mainHeading {
+  color: #00e7ff;
+  font-size: 30px;
+  font-weight: 900;
+  text-align: center;
+}
+.listBgCon {
+  margin: 50px;
+}
+.img {
+  width: 70vw;
+  height: 500px;
+  margin-left: 150px;
+}

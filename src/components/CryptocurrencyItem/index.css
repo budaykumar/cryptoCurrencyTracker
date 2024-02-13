@@ -1,0 +1,25 @@
+.listItem {
+  background-color: transparent;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 30px;
+}
+.imgAndNameCon {
+  display: flex;
+  flex-direction: row;
+}
+.imgLogo {
+  height: 30px;
+  width: 30px;
+}
+.logoHeading {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 700;
+}
+.detailsCon {
+  display: flex;
+  flex-direction: row;
+}
